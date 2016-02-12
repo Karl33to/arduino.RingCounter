@@ -1,0 +1,8 @@
+RingCounter	KEYWORD1
+clear	KEYWORD2
+debug	KEYWORD2
+current	KEYWORD2
+next	KEYWORD2
+increment	KEYWORD2
+isFirst	KEYWORD2
+isLast	KEYWORD2
